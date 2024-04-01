@@ -1,6 +1,6 @@
 # Ather
 
-![image]()
+![image](https://github.com/nababuddin/Ather/blob/main/Screenshot%202024-04-01%20204648.png)
 
 
 <h1>Breaking Chains: An Innovative AR Game for Anti-Drug Education</h1>
